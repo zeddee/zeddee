@@ -1,6 +1,7 @@
 = README
 
-Zed puts words together for a living.
+Zed is a Human text-expander.
+Talks to people and machines so your users don't have to.
 
 Reach him at:
 
